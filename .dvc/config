@@ -1,0 +1,4 @@
+[core]
+    remote = http
+['remote "http"']
+    url = https://pub-84cc712c7f4c4cadb5a66bb8ee284d27.r2.dev/my/store
