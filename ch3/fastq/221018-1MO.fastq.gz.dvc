@@ -1,0 +1,6 @@
+outs:
+- md5: d0b32875823ebc3c7fc26b09fcf0bbb2
+  size: 203647152
+  isexec: true
+  hash: md5
+  path: 221018-1MO.fastq.gz

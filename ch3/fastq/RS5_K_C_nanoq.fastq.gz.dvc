@@ -1,0 +1,6 @@
+outs:
+- md5: f5fa1ec6fece2c239691631c222269dd
+  size: 51914367
+  isexec: true
+  hash: md5
+  path: RS5_K_C_nanoq.fastq.gz
