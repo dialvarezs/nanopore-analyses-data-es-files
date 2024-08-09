@@ -1,0 +1,5 @@
+outs:
+- md5: 0ed3ae4621d06954bcc9d539b4308752
+  size: 21968045
+  hash: md5
+  path: 389189.fastq.gz

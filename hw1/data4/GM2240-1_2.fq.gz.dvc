@@ -1,0 +1,5 @@
+outs:
+- md5: 512d82935c07876e293bb297f29d9d79
+  size: 112863279
+  hash: md5
+  path: GM2240-1_2.fq.gz
