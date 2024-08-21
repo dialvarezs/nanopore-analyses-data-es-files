@@ -1,0 +1,5 @@
+outs:
+- md5: c9cfa9bd103a0cbe49a0d3c0172e3d02
+  size: 440669885
+  hash: md5
+  path: FSC1.filter_quality.fastq.gz
