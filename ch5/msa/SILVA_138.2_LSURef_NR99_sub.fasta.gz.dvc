@@ -1,0 +1,5 @@
+outs:
+- md5: 92ec1d740a9e4c6c6a220f5fb191c55d
+  size: 702547
+  hash: md5
+  path: SILVA_138.2_LSURef_NR99_sub.fasta.gz
