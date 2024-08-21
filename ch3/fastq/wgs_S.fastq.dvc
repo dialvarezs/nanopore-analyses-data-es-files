@@ -1,0 +1,5 @@
+outs:
+- md5: b9bdf97ddf904596776439de5e00dfc9
+  size: 605453668
+  hash: md5
+  path: wgs_S.fastq

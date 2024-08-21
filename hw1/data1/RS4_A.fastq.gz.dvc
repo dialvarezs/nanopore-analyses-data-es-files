@@ -1,0 +1,5 @@
+outs:
+- md5: 545642f47730779f78b5a1e5e1d1c4cb
+  size: 241516654
+  hash: md5
+  path: RS4_A.fastq.gz

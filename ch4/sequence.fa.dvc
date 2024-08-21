@@ -1,0 +1,5 @@
+outs:
+- md5: 606bf82026b20c142aa9d26b9020e0af
+  size: 1320
+  hash: md5
+  path: sequence.fa
