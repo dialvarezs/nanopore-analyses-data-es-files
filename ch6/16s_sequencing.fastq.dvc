@@ -1,0 +1,5 @@
+outs:
+- md5: 70704ad0a97f3d8d3df194f349cb304a
+  size: 1500300
+  hash: md5
+  path: 16s_sequencing.fastq
