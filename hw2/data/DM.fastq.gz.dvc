@@ -1,0 +1,5 @@
+outs:
+- md5: cb1344b18747c672f58248f17a1f2c65
+  size: 1712978242
+  hash: md5
+  path: DM.fastq.gz
