@@ -1,4 +1,4 @@
 [core]
     remote = http
 ['remote "http"']
-    url = https://pub-baa56ee456604b9491e052926bf44a9a.r2.dev/ont-analysis
+    url = https://catg-dvc-nkbxe68n.nyc3.cdn.digitaloceanspaces.com/ont-analysis-course
